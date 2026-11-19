@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Walmart Clone
 
-## Getting Started
+A responsive e-commerce storefront built with Next.js, TypeScript and Tailwind CSS.
 
-First, run the development server:
+![Walmart Clone homepage](./screenshots/home.png)
+
+🔗 **Live demo:** [walmart-clone-lovat.vercel.app](https://walmart-clone-lovat.vercel.app/)
+
+## ✨ Features
+
+- Product listing and search
+- Shopping basket with live cart total
+- Responsive layout for mobile, tablet and desktop
+- Optimised product images
+
+## 🛠️ Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+## 🚀 Getting Started
+
+First, install the dependencies and run the development server:
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🔐 Environment Variables
 
-## Learn More
+Create a `.env.local` file in the root folder and add your own keys:
 
-To learn more about Next.js, take a look at the following resources:
+```
+YOUR_API_KEY=your_key_here
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📚 Learn More
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [Next.js Documentation](https://nextjs.org/docs): Next.js features and API
+- [Learn Next.js](https://nextjs.org/learn): an interactive Next.js tutorial
 
-## Deploy on Vercel
+## 👤 Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Moses Yogo** · Front-End Developer
+[LinkedIn](https://www.linkedin.com/in/moses-yogo) · [GitHub](https://github.com/mosesyogo)
