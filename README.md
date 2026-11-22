@@ -41,11 +41,6 @@ Create a `.env.local` file in the root folder and add your own keys:
 YOUR_API_KEY=your_key_here
 ```
 
-## 📚 Learn More
-
-- [Next.js Documentation](https://nextjs.org/docs): Next.js features and API
-- [Learn Next.js](https://nextjs.org/learn): an interactive Next.js tutorial
-
 ## 👤 Author
 
 **Moses Yogo** · Front-End Developer
